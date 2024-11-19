@@ -1,3 +1,5 @@
 package main
 
 // Call the function from the package
+
+// The function is in the file hello.go
